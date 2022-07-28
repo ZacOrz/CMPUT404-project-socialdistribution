@@ -1,7 +1,7 @@
-CMPUT404-project-socialdistribution
+CMPUT404-project-social distribution
 ===================================
 
-CMPUT404-project-socialdistribution
+CMPUT404-project-social distribution
 
 See project.org (plain-text/org-mode) for a description of the project.
 
@@ -15,7 +15,7 @@ Send a pull request and be sure to update this file with your name.
 Contributors / Licensing
 ========================
 
-Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
+Generally, everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
 All text is licensed under the CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/deed.en_US
 
